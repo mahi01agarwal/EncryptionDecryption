@@ -48,12 +48,6 @@ Thanks to the authors of the libraries used in this project:
 - random
 - os
 - sys
-## Members
-
-- Aryan Sharma
-- Avinav Verma
-- Mahima Agarwal
-- Saswat Susmoy Sahoo
 
 ## Contact
 
